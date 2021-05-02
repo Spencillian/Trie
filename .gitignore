@@ -1,2 +1,5 @@
 .idea/*
 *.iml
+out/production/Trie/Main.class
+out/production/Trie/Trie.class
+out/production/Trie/TrieNode.class
